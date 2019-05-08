@@ -1,3 +1,9 @@
+# NEW VERSION OF TABSAT
+Please check out our [new version of TABSAT](https://tabsat.ait.ac.at).<br/>
+-> [https://tabsat.ait.ac.at](http://tabsat.ait.ac.at)
+<br/><br/>
+<br/><br/>
+
 # TABSAT
 
 TABSAT - Targeted Amplicon Bisulfite Sequencing Analysis Tool - is a tool for analyzing targeted bisulfite sequencing data generated on an Ion Torrent PGM / Illumina MiSeq. 
